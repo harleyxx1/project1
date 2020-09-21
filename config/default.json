@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://ding1234:Deym123123@devproject.trf2x.mongodb.net/tambayan?retryWrites=true&w=majority",
+    "jwtSecret": "we dont allow anyone"
+}
