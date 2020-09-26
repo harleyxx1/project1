@@ -10,7 +10,7 @@ app.use(express.json({
     extended: false
 }));
 
-app.get('/', (req, res) => res.send('Yeahhh'));
+app.get('/');
 
 app.use('/api/users', require('./routes/api/users'));
 app.use('/api/profile', require('./routes/api/profile'));
